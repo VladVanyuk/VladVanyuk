@@ -45,7 +45,7 @@ I'm always open to new ideas and collaborations. If you're working on an excitin
 ---
 
 ## 📫 Contact Me
-- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/vladislav-vanyuk-embedded-system-developer/))  
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/vladislav-vanyuk-embedded-system-developer/])  
 - **Email**: [vladislavvanyuk@gmail.com](mailto:vladislavvanyuk@gmail.com)
 
 ---
